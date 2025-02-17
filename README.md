@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Salesforce]()&nbsp;
+![Salesforce];
 
  
 ### Tools:
@@ -38,6 +38,6 @@
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Salesforce]()&nbsp;
+![Salesforce];
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
